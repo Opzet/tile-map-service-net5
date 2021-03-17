@@ -4,6 +4,14 @@ Basic implementation of tile server for .NET 5 platform. Provides access to rast
 ### Demo page
 ![Demo page](https://github.com/apdevelop/tile-map-service-net5/blob/master/Docs/demo-page.png)
 
+[SimpleMap - GIS Viewer] (https://github.com/Opzet/SimpleMap)
+* All in one Winform control
+  * No un-managed Code & No Dependancies.
+  * Fast image draw to screen via GDI+, written pure on C# without any direct mapping to WinApi.
+* Tile servers Support
+  * Download map images from tile servers (e.g tile-map-service-net5, google).
+* Base classes to draw any map layers.
+
 ### Features
 * Supported tile sources:
   * [MBTiles](https://github.com/mapbox/mbtiles-spec).
