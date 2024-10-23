@@ -4,6 +4,16 @@ Simple and lightweight implementation of tile server basic features for .NET 5 /
 ### Demo page
 ![Demo page](https://github.com/apdevelop/tile-map-service/blob/master/Docs/demo-page.png)
 
+### Demo App
+[SimpleMap - GIS Viewer] (https://github.com/Opzet/SimpleMap)
+
+All in one Winform control
+No un-managed Code & No Dependancies.
+Fast image draw to screen via GDI+, written pure on C# without any direct mapping to WinApi.
+Tile servers Support
+Download map images from tile servers (e.g tile-map-service-net5, google).
+Base classes to draw any map layers.
+
 ### Features
 * Supported tile sources:
 
